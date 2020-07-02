@@ -47,7 +47,7 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
         textView.setGravity(Gravity.LEFT);
     }
     public void centre(View view){
-        textView.setGravity(Gravity.CENTER);
+        textView.setGravity(Gravity.CENTER_HORIZONTAL);
     }
     public void right(View view){
         textView.setGravity(Gravity.RIGHT);
