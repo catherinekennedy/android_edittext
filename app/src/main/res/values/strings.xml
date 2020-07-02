@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">zypherproject</string>
+    <string name="search">search</string>
+    <string name="settings">settings</string>
+    <string name="bookmark">bookmark</string>
+    <string name="hamburger">hamburger</string>
+    <string name="hi_settings">hi settings</string>
+    <string name="font">font:</string>
+    <string name="align">Align</string>
+    <string name="todo">TODO</string>
+    <string name="aa">Aa</string>
+    <string name="line_spacing">line spacing</string>
+    <string name="title_activity_zyp2page">zyp2page</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+</resources>
